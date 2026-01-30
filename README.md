@@ -31,29 +31,40 @@
 ---
 
 ## ⚡ About Me
-- 🎓 **M.Sc in Computer Science (2024–2026)** — The University of Burdwan  
-- 🎓 **BCA in Computer Science (2021–2024)** — **CGPA: 7.9/10**
 - 💻 Backend-focused developer working with **Java + Spring Boot + REST APIs**
 - ⚙️ Interested in **System Design, Concurrency, Networking, Clean Architecture**
-- 👨‍🏫 **Technical Instructor (2021–Present)** — mentoring students in programming + DSA + CS fundamentals  
+- 🧠 Strong foundation in **DSA + CS Fundamentals**
+- 👨‍🏫 **Technical Instructor** — mentoring students in programming, DSA & core CS fundamentals
 - 📍 **Burdwan, West Bengal, India**
 
 ---
 
 ## 🛠️ Tech Arsenal (Logos)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,dart,cpp,c,go,rust,postgres,mysql,redis,flutter,gradle,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,dart,cpp,c,postgres,mysql,redis,flutter,android,gradle,git,github,postman,docker" />
 </p>
 
 ---
 
-## 🧠 Core Competencies
-✅ Data Structures & Algorithms (DSA)  
-✅ Backend Engineering + REST APIs  
-✅ System Design + Clean Architecture  
-✅ Concurrency + Performance Optimization  
-✅ Networking + DBMS + OS Fundamentals  
-✅ Debugging + Real-World Problem Solving  
+## 🧩 Core CSE Concepts (Strong Areas)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00C853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-Java%20Centric-2196F3?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-SQL%20%2B%20Transactions-7B1FA2?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Operating%20System-Threads%20%7C%20Memory%20%7C%20Scheduling-FF6F00?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-HTTP%20%7C%20TCP%2FUDP%20%7C%20DNS-0D47A1?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Backend-000000?style=for-the-badge&logo=architectury&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Concurrency-Threads%20%7C%20Locks%20%7C%20Consistency-E91E63?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Structured%20Code-4CAF50?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging-Logs%20%7C%20Tracing%20%7C%20Fixing-F44336?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
 
 ---
 
@@ -61,7 +72,7 @@
 - ✅ **LeetCode:** 340+ problems solved  
 - ✅ **GeeksforGeeks:** 300+ problems solved  
 - ✅ **HackerRank:** 110+ problems solved  
-- ✅ **Technical Instructor (2021–Present)**  
+- ✅ Technical Instructor — programming + DSA + CS fundamentals
 
 ---
 
@@ -84,7 +95,7 @@
 - Multi-protocol support **TCP/UDP** + DNS leak protection
 - Used **Hive NoSQL** for session management, persistence, and preferences storage
 - Built auto-reconnect, network monitoring & server selection logic
-- Managed Gradle build automation for multi-module setup & native library integration
+- Managed Gradle automation for multi-module setup & native library integration
 
 ---
 
