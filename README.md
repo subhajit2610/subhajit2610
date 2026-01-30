@@ -41,7 +41,7 @@
 
 ## 🛠️ Tech Arsenal (Logos)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,dart,cpp,c,postgres,mysql,redis,flutter,android,gradle,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,dart,cpp,c,postgres,mysql,redis,flutter,gradle,git,github,postman,docker" />
 </p>
 
 ---
