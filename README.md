@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Subhajit Roy ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=Java+Backend+Developer+%F0%9F%94%A5;System+Design+%2B+Concurrency+%E2%9A%A1;Android+Developer+(Kotlin%2FFlutter)+%F0%9F%93%B1;Building+Real+World+Projects+%F0%9F%9A%80;DSA+%7C+Clean+Architecture+%7C+Networking+%F0%9F%A7%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=820&lines=Java+Backend+Developer+%F0%9F%94%A5;System+Design+%2B+Concurrency+%E2%9A%A1;Android+Developer+(Kotlin%2FFlutter)+%F0%9F%93%B1;DSA+%7C+Clean+Architecture+%7C+Networking+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -16,34 +16,44 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-340%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-300%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-110%2B_Solved-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+</p>
+
 ---
 
 ## ⚡ About Me
 - 🎓 **M.Sc in Computer Science (2024–2026)** — The University of Burdwan  
 - 🎓 **BCA in Computer Science (2021–2024)** — **CGPA: 7.9/10**
-- 💻 I build backend systems using **Java + Spring Boot**
-- ⚙️ Strong in **System Design, Concurrency, Networking, OOP**
-- 🧠 DSA enthusiast + problem solver
-- 👨‍🏫 **Technical Instructor (2021–Present)** — mentoring students in programming & CS fundamentals
-
-📍 **Location:** Burdwan, West Bengal, India
+- 💻 Backend-focused developer working with **Java + Spring Boot + REST APIs**
+- ⚙️ Interested in **System Design, Concurrency, Networking, Clean Architecture**
+- 👨‍🏫 **Technical Instructor (2021–Present)** — mentoring students in programming + DSA + CS fundamentals  
+- 📍 **Burdwan, West Bengal, India**
 
 ---
 
 ## 🛠️ Tech Arsenal (Logos)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,dart,cpp,c,sql,postgres,mysql,redis,flutter,androidstudio,gradle,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,dart,cpp,c,go,rust,postgres,mysql,redis,flutter,android,gradle,git,github,postman,docker" />
 </p>
 
 ---
 
 ## 🧠 Core Competencies
 ✅ Data Structures & Algorithms (DSA)  
-✅ System Design + Clean Architecture  
 ✅ Backend Engineering + REST APIs  
+✅ System Design + Clean Architecture  
 ✅ Concurrency + Performance Optimization  
-✅ Debugging + Real-World Problem Solving  
 ✅ Networking + DBMS + OS Fundamentals  
+✅ Debugging + Real-World Problem Solving  
 
 ---
 
@@ -64,17 +74,17 @@
 - Designed **LRU eviction**, memory accounting, and crash recovery mechanisms
 - Developed **Write-Ahead Logging (AOF)** with replay, truncation & disk self-healing
 - Engineered startup recovery + volatile structures (sessions, counters, events, rate limiters)
-- Ensured consistency using Java synchronization primitives (ACID-focused approach)
+- Designed concurrent access patterns using Java synchronization primitives ensuring **ACID** and consistency
 
 ---
 
 ### 🔥 IPX — Android VPN Application
 **Tech:** Java, Flutter, Gradle, OpenVPN, Hive  
-- Engineered secure VPN backend using **Java + OpenVPN API** (encrypted tunneling)
+- Engineered secure VPN backend using **Java + OpenVPN API** for encrypted tunneling
 - Multi-protocol support **TCP/UDP** + DNS leak protection
-- Used **Hive NoSQL** for sessions, persistence, and preferences storage
-- Implemented auto-reconnect, network monitoring & server selection logic
-- Gradle automation for multi-module builds & native library integrations
+- Used **Hive NoSQL** for session management, persistence, and preferences storage
+- Built auto-reconnect, network monitoring & server selection logic
+- Managed Gradle build automation for multi-module setup & native library integration
 
 ---
 
