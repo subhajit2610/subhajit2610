@@ -168,11 +168,11 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 <div align="center">
 
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💬 "Code is like humour. When you have to explain it, it's bad." – Cory House
 
 ### ⭐ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=subhajit2610&color=blueviolet&style=for-the-badge)
 
 </div>
 
