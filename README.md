@@ -1,129 +1,185 @@
-<h1 align="center">⚡ Subhajit Roy ⚡</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=820&lines=Java+Backend+Developer+%F0%9F%94%A5;System+Design+%2B+Concurrency+%E2%9A%A1;Android+Developer+(Kotlin%2FFlutter)+%F0%9F%93%B1;DSA+%7C+Clean+Architecture+%7C+Networking+%F0%9F%A7%A0;Building+Real+World+Projects+%F0%9F%9A%80" />
-</p>
+# 🚀 Hey there, I'm Subhajit Roy! 👨‍💻
 
-<p align="center">
-  <a href="https://github.com/subhajit2610">
-    <img src="https://komarev.com/ghpvc/?username=subhajit2610&label=Profile%20Views&color=00ffff&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/subhajitroygeek/">
-    <img src="https://img.shields.io/badge/LinkedIn-SubhajitRoyGeek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:subhajitroy2610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-subhajitroy2610%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&pause=1000&speed=40&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-340%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-300%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-110%2B_Solved-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-</p>
+</div>
 
 ---
 
-## ⚡ About Me
-- 💻 Backend-focused developer working with **Java + Spring Boot + REST APIs**
-- ⚙️ Interested in **System Design, Concurrency, Networking, Clean Architecture**
-- 🧠 Strong foundation in **DSA + CS Fundamentals**
-- 👨‍🏫 **Technical Instructor** — mentoring students in programming, DSA & core CS fundamentals
-- 📍 **Burdwan, West Bengal, India**
+## 🧑‍💻 About Me
+
+I'm a passionate developer who loves turning ideas into reality through code. I thrive on building innovative solutions and exploring cutting-edge technologies. When I'm not coding, you'll find me learning something new or contributing to the open-source community.
+
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────┐
+│  while(alive) {                                 │
+│      eat();                                     │
+│      code();                                    │
+│      debug();                                   │
+│      sleep();                                   │
+│      repeat();                                  │
+│  }                                              │
+└─────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal (Logos)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,kotlin,dart,cpp,c,postgres,mysql,redis,flutter,gradle,git,github,postman,docker" />
-</p>
+## 💻 Tech Arsenal
 
----
+### 🔧 Languages & Frameworks
 
-## 🧩 Core CSE Concepts (Strong Areas)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00C853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-Java%20Centric-2196F3?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-SQL%20%2B%20Transactions-7B1FA2?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### 🗄️ Databases & Cloud
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Operating%20System-Threads%20%7C%20Memory%20%7C%20Scheduling-FF6F00?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-HTTP%20%7C%20TCP%2FUDP%20%7C%20DNS-0D47A1?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Backend-000000?style=for-the-badge&logo=architectury&logoColor=white" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Concurrency-Threads%20%7C%20Locks%20%7C%20Consistency-E91E63?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-Structured%20Code-4CAF50?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debugging-Logs%20%7C%20Tracing%20%7C%20Fixing-F44336?style=for-the-badge&logo=datadog&logoColor=white" />
-</p>
+### 🛠️ Tools & Technologies
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🏆 Achievements
-- ✅ **LeetCode:** 340+ problems solved  
-- ✅ **GeeksforGeeks:** 300+ problems solved  
-- ✅ **HackerRank:** 110+ problems solved  
-- ✅ Technical Instructor — programming + DSA + CS fundamentals
+### 🧠 Computer Science Fundamentals
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-2E7D32?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-6A1B9A?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-D32F2F?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 TVW (The Volatile Workshop) — In-Memory Data Platform (Java)
-**Tech:** Java, Concurrency, System Design  
-- Built a high-performance **in-memory database** with TTL expiration engine (active + lazy cleaners)
-- Implemented thread-safe operations: **GET / SET / DEL**
-- Designed **LRU eviction**, memory accounting, and crash recovery mechanisms
-- Developed **Write-Ahead Logging (AOF)** with replay, truncation & disk self-healing
-- Engineered startup recovery + volatile structures (sessions, counters, events, rate limiters)
-- Designed concurrent access patterns using Java synchronization primitives ensuring **ACID** and consistency
+<div align="center">
+
+### 🔹 Project Alpha
+> A scalable microservices-based application with real-time features
+> 
+> **Tech:** Node.js, MongoDB, Redis, Docker, Kubernetes
+
+### 🔹 Project Beta
+> AI-powered automation tool for developer productivity
+> 
+> **Tech:** Python, FastAPI, TensorFlow, PostgreSQL
+
+### 🔹 Project Gamma
+> Full-stack e-commerce platform with payment integration
+> 
+> **Tech:** React, Node.js, Express, MongoDB, Stripe API
+
+</div>
 
 ---
 
-### 🔥 IPX — Android VPN Application
-**Tech:** Java, Flutter, Gradle, OpenVPN, Hive  
-- Engineered secure VPN backend using **Java + OpenVPN API** for encrypted tunneling
-- Multi-protocol support **TCP/UDP** + DNS leak protection
-- Used **Hive NoSQL** for session management, persistence, and preferences storage
-- Built auto-reconnect, network monitoring & server selection logic
-- Managed Gradle automation for multi-module setup & native library integration
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
-## 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhajit2610&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit2610&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit2610&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🏆 Trophy Wall
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhajit2610&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-## 🌍 Connect With Me
-📌 GitHub: https://github.com/subhajit2610  
-💼 LinkedIn: https://www.linkedin.com/in/subhajitroygeek/  
-📧 Email: subhajitroy2610@gmail.com  
+## 💡 Random Dev Quote
 
-⭐ Welcome to my profile — let’s build something legendary 🚀
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajitroygeek/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourhandle)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yourhandle)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+### ⭐ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **Thanks for visiting! 😊 Feel free to explore my repositories and don't hesitate to reach out!**
+  
+</div>
